@@ -1,0 +1,4 @@
+module.exports = {
+    OPERATING_MANAGER_DEFAULT_PASSWORD:'12345678', //管理员默认密码
+    OPERATING_ORGNIZATION_CODE: 'kelu',
+};
